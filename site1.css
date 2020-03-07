@@ -60,3 +60,11 @@ div.centre {
 img{
     width: auto;
 }
+
+span.redtext{
+    color: red;
+}
+
+span.whitetext {
+    color: white;
+}
