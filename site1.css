@@ -67,4 +67,28 @@ span.redtext{
 
 span.whitetext {
     color: white;
+} 
+
+div.register{
+    top:1600px;
+    position: absolute;
+    color:aqua;
+    width: 1000px;
+    left: 200px;
+    text-align: center;
+}
+
+span.h{
+    color: aqua;
+}
+
+hr{
+    top:1550px;
+    color:azure;
+}
+
+input.button{
+    background-color:orangered;
+    color:white;
+    border:hidden;
 }
